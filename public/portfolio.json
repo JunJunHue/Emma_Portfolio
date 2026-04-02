@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "siteTitle": "Emma Hong",
+    "tagline": "Investment banking · Software · Finance",
+    "heroTags": ["New York", "Capital markets", "Software"]
+  },
+  "about": {
+    "headline": "Analyst and builder at the intersection of capital markets and technology.",
+    "paragraphs": [
+      "I work on transaction execution, research, and client materials in private markets while grounding my perspective in computer science and economics at NYU. I care about rigorous analysis, clear communication, and teams that move with intention.",
+      "Previously interned across wealth management, equity research, and software engineering—from Ottawa to New York—with stops in autonomous monitoring, compliance automation, and listed equity coverage."
+    ],
+    "contact": {
+      "email": "ezh7004@nyu.edu",
+      "phone": "+1 (216) 451-6100",
+      "location": "New York, NY"
+    },
+    "links": [
+      { "label": "Email", "href": "mailto:ezh7004@nyu.edu" },
+      { "label": "NYU", "href": "https://www.nyu.edu" }
+    ]
+  },
+  "education": [
+    {
+      "id": "edu-nyu",
+      "school": "New York University",
+      "degree": "B.A. Economics and Computer Science; Minors in Business Studies and French",
+      "location": "New York, NY",
+      "start": "Aug 2025",
+      "end": "May 2028",
+      "bullets": [
+        "Activities: Women in Business, Fusion Film Festival Finance, Strategic Venture Society Venturist, Girls Who Code",
+        "Coursework: Financial Accounting, Data Structures, Analytical Statistics, Computer Systems Organization"
+      ]
+    },
+    {
+      "id": "edu-cwru",
+      "school": "Case Western Reserve University",
+      "degree": "B.S.M. Finance and B.S. Computer Science; Minor in French",
+      "location": "Cleveland, OH",
+      "start": "Aug 2024",
+      "end": "May 2025",
+      "bullets": [
+        "Cumulative GPA: 3.7/4.0; Honors: Wall Street Trek, CWRU Dean's Honors",
+        "Activities: Ice Hockey, Collaborative Coding Club, Women in Finance (Marketing Officer), Phi Mu, Quantum Computing"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-renewable",
+      "company": "Renewable Advisors",
+      "title": "Investment Banking Analyst",
+      "location": "New York, NY",
+      "start": "Dec 2025",
+      "end": "Present",
+      "highlights": [
+        "Contributed to transaction execution and business development through analysis, research, and client material preparation",
+        "Conducted industry and company research on large cap ($100bn+) tech companies for targeted private fund placements",
+        "Prepared internal analyses and briefing materials for private capital raises, M&A, and sustainable advisory"
+      ]
+    },
+    {
+      "id": "exp-avesta",
+      "company": "Avesta Wealth",
+      "title": "Wealth Management Student Intern",
+      "location": "Ottawa, Canada",
+      "start": "Jun 2025",
+      "end": "Sept 2025",
+      "highlights": [
+        "Supported financial planning administration through communication with ~300 clients and assisting with due diligence",
+        "Analyzed equities markets and developed models to select investments for ~$100M alternative fund",
+        "Programmed Python scripts to automate Excel to PDF conversions for KYC forms in compliance annual updates"
+      ]
+    },
+    {
+      "id": "exp-westlake",
+      "company": "Westlake Securities",
+      "title": "Fall Equity Research Analyst",
+      "location": "New York, NY",
+      "start": "Oct 2024",
+      "end": "Dec 2024",
+      "highlights": [
+        "Researched market trends and provided valuation insights using Bloomberg Terminal and PitchBook",
+        "Compiled equity research reports on Darden (NYSE: DRI) and United Rentals (NYSE: URI) for management review"
+      ]
+    },
+    {
+      "id": "exp-nokia",
+      "company": "Nokia Bell Labs",
+      "title": "Software Engineering Intern, Autonomous Industrial Monitoring",
+      "location": "Ottawa, Canada",
+      "start": "Jul 2023",
+      "end": "Aug 2023",
+      "highlights": [
+        "Contributed to development of automated warehouse-monitoring drone software and hardware for 300+ facilities",
+        "Analyzed 30,000+ AI-powered drone images to identify recognition errors and generated reports for management",
+        "Optimized internal storage with Python and Pandas to delete outdated data and automate downloads"
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "id": "lead-cmc",
+      "organization": "NYU Stern Capital Markets Club",
+      "title": "Workshop Member",
+      "location": "New York, NY",
+      "start": "Oct 2025",
+      "end": "Present",
+      "highlights": [
+        "Selected as one of 12/200 applicants for a workshop on macroeconomics and finance convergence",
+        "Created and presented a pitch on Chagee (NASDAQ: CHA) with financial summaries, DCF modeling, and industry outlook"
+      ]
+    },
+    {
+      "id": "lead-wic",
+      "organization": "NYU Women in Computing",
+      "title": "Vice President and Treasurer",
+      "location": "New York, NY",
+      "start": "Sept 2025",
+      "end": "Present",
+      "highlights": [
+        "Managed $2.5k budget, coordinated event spending, outreach to 50+ alumni, and liaised with team members",
+        "Hosted social, networking, and professional development events for women in computer and data science"
+      ]
+    },
+    {
+      "id": "lead-hockey",
+      "organization": "Ottawa Ice Lightning Hockey Club",
+      "title": "Head Coach and Senior Advisor",
+      "location": "Ottawa, Canada",
+      "start": "May 2022",
+      "end": "Present",
+      "highlights": [
+        "Coached players aged 4–11 using 11 years of competitive experience in a community program",
+        "Communicated with parents in Mandarin and English; trained and supervised head and assistant coaches"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "work-dri-uri",
+      "title": "Listed equity research memos",
+      "subtitle": "Westlake Securities",
+      "description": "Coverage notes on Darden (NYSE: DRI) and United Rentals (NYSE: URI) incorporating market trends and valuation.",
+      "url": "",
+      "year": "2024"
+    },
+    {
+      "id": "work-chagee",
+      "title": "Chagee (NASDAQ: CHA) pitch",
+      "subtitle": "NYU Stern Capital Markets Club",
+      "description": "Investment-style presentation with financial summaries, DCF work, and industry outlook.",
+      "url": "",
+      "year": "2025"
+    },
+    {
+      "id": "work-kyc",
+      "title": "KYC compliance automation",
+      "subtitle": "Avesta Wealth",
+      "description": "Python tooling to streamline Excel-to-PDF workflows for annual compliance updates.",
+      "url": "",
+      "year": "2025"
+    }
+  ],
+  "skillsNote": "PitchBook, Bloomberg Terminal, CapIQ · C, Python, Git, Java, Flask, HTML/CSS, SQL, x64 Assembly, Linux/Unix · English (native), French (DELF B2), Mandarin (fluent)"
+}
